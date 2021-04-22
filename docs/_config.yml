@@ -1,0 +1,6 @@
+title: codacy
+description: Drone plugin provided by Webhippie
+baseurl: /codacy
+
+email: mail@webhippie.de
+theme: jekyll-theme-cayman
